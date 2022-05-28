@@ -3,7 +3,7 @@
 
 
 - 🔭 Cursando ADS
-- 🌱 Buscando conhecimento em Java, Framework SpringBoot , 
+- 🌱 Buscando conhecimento em Java, SpringBoot , 
 - 😄 Pronouns: ele/dele
 
 <div align="center">
