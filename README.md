@@ -3,8 +3,8 @@
 
 
 - 🔭 Cursando ADS
-- 🌱 Buscando conhecimento em Java, SpringBoot , 
-- 😄 Pronouns: ele/dele
+- 🌱 Buscando conhecimento em Java, SpringBoot
+- 😄 Apesar de ser bem curioso por front-end, meu foco no momento é o back-end.
 
 <div align="center">
   <a href="https://github.com/RomasCosta">
