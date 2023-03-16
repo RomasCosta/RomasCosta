@@ -4,7 +4,6 @@
 
 - 🔭 Cursando ADS
 - 🌱 Buscando conhecimento em Java, SpringBoot
-- 😄 Apesar de ser bem curioso por front-end, meu foco no momento é o back-end.
 
 <div align="center">
   <a href="https://github.com/RomasCosta">
@@ -19,7 +18,6 @@
   <img align="center" alt="RomasCosta-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="RomasCosta-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="RomasCosta-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="RomasCosta-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
   
 </div>
   
