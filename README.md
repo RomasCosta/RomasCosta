@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Cursando ADS
-- 🌱 Estusiasta no quesito tecnologia.
+- 🔭 Formado em Tecnologia de Análise e Desenvolvemento de Sistemas
+- 🌱 No desenvolvimento de novas habilidades.
 
 <div align="center">
   <a href="https://github.com/RomasCosta">
