@@ -3,7 +3,7 @@
 
 
 - 🔭 Formado em Tecnologia de Análise e Desenvolvimento de Sistemas
-- 🌱 No desenvolvimento de novas habilidades.
+- 🌱 Em busca de desenvolver de novas habilidades.
 
 <div align="center">
   <a href="https://github.com/RomasCosta">
