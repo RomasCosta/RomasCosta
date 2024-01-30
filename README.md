@@ -2,9 +2,9 @@
 
 
 
-- 🔭 Formado em Tecnologia de Análise e Desenvolvimento de Sistemas
+- :white_check_mark: Formado em Tecnologia de Análise e Desenvolvimento de Sistemas
 - :memo: Cursando Pós na área de Fullstack com Angular, Java e SpringBoot, HTML, CSS, JavaScript, Bootstrap
-- 🌱 Em busca de desenvolver novas habilidades.
+- :mag: Em busca de desenvolver novas habilidades.
 
 <div align="center">
   <a href="https://github.com/RomasCosta">
@@ -15,14 +15,16 @@
   ## O que estou estudando no momento
   
 <div style="display: inline_block"><br>
-  
-  <img align="center" alt="RomasCosta-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+
   <img align="center" alt="RomasCosta-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+  <img align="center" alt="RomasCosta-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="RomasCosta-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="RomasCosta-Phython" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  
   <img align="center" alt="RomasCosta-Html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="RomasCosta-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="RomasCosta-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+  <img align="center" alt="RomasCosta-Phython" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   
           
           
