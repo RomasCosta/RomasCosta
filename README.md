@@ -3,6 +3,7 @@
 
 
 - 🔭 Formado em Tecnologia de Análise e Desenvolvimento de Sistemas
+- :memo: Cursando Pós na área de Fullstack com Angular, Java e SpringBoot
 - 🌱 Em busca de desenvolver novas habilidades.
 
 <div align="center">
