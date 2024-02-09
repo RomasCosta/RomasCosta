@@ -1,7 +1,5 @@
 ### Olá!! Eu sou Romário Costa 👋
 
-:camera_flash: 
-:goal_net:
 
 - :white_check_mark: Formado em Tecnologia de Análise e Desenvolvimento de Sistemas
 - :memo: Cursando Pós na área de Fullstack com Angular, Java e SpringBoot, HTML, CSS, JavaScript, Bootstrap
