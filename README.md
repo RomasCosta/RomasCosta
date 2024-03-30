@@ -5,6 +5,8 @@
 - :memo: Cursando Pós na área de Fullstack com HTML, CSS, JavaScript, Angular, Bootstrap, Java e SpringBoot, SQL, AWS, NodeJs, Docker, Kubernetes, Rancher, GitLab
 - :mag: Em busca de desenvolver novas habilidades.
 
+  ##
+
 <div align="center">
   <a href="https://github.com/RomasCosta">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RomasCosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
