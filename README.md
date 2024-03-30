@@ -13,6 +13,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomasCosta&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+##
+
   ## O que estou estudando no momento :construction_worker:
   
 <div style="display: inline_block"><br>  
