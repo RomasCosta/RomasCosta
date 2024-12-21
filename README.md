@@ -42,6 +42,8 @@
 
  ## Meu foco :technologist:
 
+ ### Meu foco hoje está em liguagens capazes de automatizar processos repetitivos e muitas vezes que demandam tempo, possibilitando uma melhoria no tempo de execução dessas atividades, permitindo focar em atividades novas.
+
 <div>
   <img align="center" alt="RomasCosta-Phython" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
   <img align="center" alt="RomasCosta-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
