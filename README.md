@@ -3,7 +3,7 @@
 ##
 
 - :white_check_mark: Formado em Tecnologia de Análise e Desenvolvimento de Sistemas
-- :white_check_mark: Pós na área de Fullstack com HTML, CSS, JavaScript, Angular, Bootstrap, Java e SpringBoot, SQL, AWS, NodeJs, Docker, Kubernetes, Rancher, GitLab
+- :white_check_mark: Pós em Fullstack com HTML, CSS, JavaScript, Angular, Bootstrap, Java e SpringBoot, SQL, AWS, NodeJs, Docker, Kubernetes, Rancher, GitLab
 - :memo: Cursando Ciências da Computação
 - :mag: Em busca de desenvolver novas habilidades.
 
