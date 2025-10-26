@@ -1,11 +1,18 @@
-### Olá!! Eu sou Romário Costa 👋
+### 👋 Olá!! Eu sou **Romário Costa**
 
-##
+---
 
-- :white_check_mark: Formado em Tecnologia de Análise e Desenvolvimento de Sistemas
-- :white_check_mark: Pós em Fullstack com HTML, CSS, JavaScript, Angular, Bootstrap, Java e SpringBoot, SQL, AWS, NodeJs, Docker, Kubernetes, Rancher, GitLab
-- :memo: Cursando Ciências da Computação
-- :mag: Em busca de desenvolver novas habilidades.
+💼 **Formação**
+- ✅ **Tecnólogo** em **Análise e Desenvolvimento de Sistemas**
+- ✅ **Pós-graduação** em **Fullstack**  
+  *(HTML, CSS, JavaScript, Angular, Bootstrap, Java, Spring Boot, SQL, AWS, Node.js, Docker, Kubernetes, Rancher, GitLab)*  
+- 🧠 **Cursando:** **Ciências da Computação**
+
+---
+
+🚀 **Objetivo**
+> Sempre em busca de desenvolver novas habilidades e aprimorar meus conhecimentos em tecnologia.
+
 
   ##
 
