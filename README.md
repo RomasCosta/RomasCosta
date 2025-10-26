@@ -15,36 +15,56 @@
 
   ##
 
+<!-- Estatísticas do GitHub -->
 <div align="center">
   <a href="https://github.com/RomasCosta">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RomasCosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomasCosta&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RomasCosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Romário Costa"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomasCosta&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas"/>
+  </a>
 </div>
 
-##
+---
 
-  ## O que estou estudando no momento :construction_worker:
+## 🧠 O que estou estudando no momento
+
+<div align="center"><br>
   
-<div style="display: inline_block"><br>  
+  <!-- Badges coloridas -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 
-  <img align="center" alt="RomasCosta-Phython" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-
-  <img align="center" alt="RomasCosta-Html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="RomasCosta-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="RomasCosta-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
- 
-  <img align="center" alt="RomasCosta-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-               
 </div>
 
- ##
+---
 
- ## Meu foco :technologist:
+## 📊 Nível de conhecimento (em aprendizado constante)
 
- #### Meu foco hoje está em linguagens capazes de automatizar processos repetitivos e que demandam muito tempo para sua execução, possibilitando uma melhoria no tempo de entrega dessas atividades, permitindo focar em atividades novas.
+<div align="center">
 
-<div>
-  <img align="center" alt="RomasCosta-Phython" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+| Tecnologia  | Nível atual |
+|-------------|-------------|
+| 🐍 **Python** | ██████████░░ 90% |
+| 🌐 **HTML5 / CSS3** | █████████░░░ 80% |
+| ⚡ **JavaScript** | ████████░░░░ 70% |
+| 🗃️ **SQL / MySQL** | ███████░░░░░ 60% |
+
 </div>
-  
-  ##
+
+---
+
+## 💻 Meu foco atual 👨‍💻
+
+> **Automatizar processos repetitivos e complexos**, criando soluções que economizam tempo e aumentam a eficiência.  
+> Estou constantemente explorando novas tecnologias que otimizam a produtividade e aprimoram a qualidade do desenvolvimento.
+
+<div align="center"><br>
+  <img align="center" alt="Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>  
+</div>
+
+---
+
+<p align="center">✨ <em>“Automatizar é transformar esforço em eficiência.”</em> ✨</p>
+
