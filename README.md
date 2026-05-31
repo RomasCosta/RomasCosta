@@ -4,8 +4,6 @@
 
 <ul>
   <li>✅ <strong>Tecnólogo</strong> em <em>Análise e Desenvolvimento de Sistemas</em></li>
-  <li>✅ <strong>Pós-graduação</strong> em <em>Fullstack</em><br>
-  <small>HTML • CSS • JavaScript • Angular • Bootstrap • Java • Spring Boot • SQL • AWS • Node.js • Docker • Kubernetes • Rancher • GitLab</small></li>
   <li>🧠 <strong>Cursando</strong> Ciências da Computação</li>
   <li>🚀 <strong>Em busca</strong> de desenvolver novas habilidades</li>
 </ul>
